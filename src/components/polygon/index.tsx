@@ -11,8 +11,7 @@ export function LinktreeBOS() {
     return (
         <Container>
             <VmComponent
-                src="ndcplug.near/widget/Linktree.Main"
-                props={{accountId: process.env.NEXT_PUBLIC_ACCOUNT_ID}}
+                src="cpassport.near/widget/Passport.Main"
             />
         </Container>
     )
