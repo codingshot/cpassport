@@ -22,7 +22,7 @@ const HomePage: NextPageWithLayout = () => {
     <>
       <MetaTags
         title={`Passport | CreativesDAO`}
-        description={`${process.env.NEXT_PUBLIC_ACCOUNT_ID} Collect passports from CreativesDAO Constellations around the world`}
+        description={`Collect passports from CreativesDAO Constellations around the world`}
       />
       <LinktreeBOS />
     </>
